@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"F:\OneDrive - Universidad Tecnologica del Peru\Estudios\Cursos\Lenguajes de Programación\Lenguaje C\FUNDAMENTOS ANSI C - DIGNAL\codigo\13_Programacion orientada a objetos\01_POO.X\main.c

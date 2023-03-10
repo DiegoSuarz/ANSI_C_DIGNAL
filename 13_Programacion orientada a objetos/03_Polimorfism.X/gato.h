@@ -1,0 +1,16 @@
+
+//#ifndef XC_HEADER_TEMPLATE_H
+//#define	XC_HEADER_TEMPLATE_H
+
+#include <xc.h> // include processor files - each processor file is guarded.  
+
+void maullar();
+void gato_comer();
+void gato_guardadId(int id);
+int gato_obtenerId();
+void guardarTipoMaullido(char *tipoMaullido);
+char* obtenerTipoMaullido();
+
+
+//#endif	/* XC_HEADER_TEMPLATE_H */
+
