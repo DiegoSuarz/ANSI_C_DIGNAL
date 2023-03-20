@@ -12,9 +12,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>00_Variables_Automatic_Static.c</itemPath>
-      <itemPath>01_Static_Sensor.c</itemPath>
-      <itemPath>02_VariablesExtern.c</itemPath>
+      <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
@@ -65,34 +63,6 @@
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
-      <item path="00_Variables_Automatic_Static.c" ex="true" overriding="false">
-        <C30>
-        </C30>
-        <C30-AR>
-        </C30-AR>
-        <C30-AS>
-        </C30-AS>
-        <C30-CO>
-        </C30-CO>
-        <C30-LD>
-        </C30-LD>
-        <C30Global>
-        </C30Global>
-      </item>
-      <item path="01_Static_Sensor.c" ex="true" overriding="false">
-        <C30>
-        </C30>
-        <C30-AR>
-        </C30-AR>
-        <C30-AS>
-        </C30-AS>
-        <C30-CO>
-        </C30-CO>
-        <C30-LD>
-        </C30-LD>
-        <C30Global>
-        </C30Global>
-      </item>
       <C30>
         <property key="cast-align" value="false"/>
         <property key="code-model" value="default"/>
